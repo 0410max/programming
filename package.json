@@ -9,6 +9,7 @@
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.1.7",
     "@rails/webpacker": "^5.4.4",
+    "babel-loader": "^9.1.2",
     "jQuery": "^1.7.4",
     "turbolinks": "^5.2.0",
     "webpack-dev-server": "^4.15.1"
